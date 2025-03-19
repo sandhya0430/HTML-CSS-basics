@@ -1,0 +1,78 @@
+ 
+page destructing
+--------------------
+
+<!DOCTYPE html>
+latest version of  
+<head>
+    information of the page
+
+self closing tag
+--------------------
+    <br> line break 
+    <hr>
+    <img>
+    <link>
+
+Pre formatted text
+--------------------
+<pre></pre>
+
+comments
+--------------------
+<!----->
+
+hyperlinks
+--------------------
+<a href="" target="_blank" title=" "></a>
+
+to send a email
+--------------------
+<a href="mailto:test@fake.com">email me</a>
+
+audio file
+--------------------
+<audio controls autoplay muted loop>
+    <source src=" " type="audio/mp3">
+    <source src=" " type="audio/wav">
+</audio>
+
+video file
+--------------------
+<video src=" "width="500 px" controls>
+    <source src="" type="what type is this">
+
+</video>
+autoplay property 
+muted attribute
+loop attribute 
+
+favicons
+--------------------
+browser accepts
+ico,png,gif,jpg,svg
+<link rel="icon" type="design.jpeg" href="design.jpeg">
+
+text formatting
+--------------------
+
+
+span & div
+--------------------
+
+lists
+--------------------
+
+tables
+--------------------
+
+buttons
+--------------------
+
+forms
+--------------------
+
+
+
+header & footer
+--------------------
